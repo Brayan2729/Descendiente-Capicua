@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Descendiente Capicua\bin\Debug\net7.0\Descendiente Capicua.exe
+c:\xampp\htdocs\Descendiente Capicua\bin\Debug\net7.0\Descendiente Capicua.deps.json
+c:\xampp\htdocs\Descendiente Capicua\bin\Debug\net7.0\Descendiente Capicua.runtimeconfig.json
+C:\xampp\htdocs\Descendiente Capicua\bin\Debug\net7.0\Descendiente Capicua.dll
+C:\xampp\htdocs\Descendiente Capicua\bin\Debug\net7.0\Descendiente Capicua.pdb
+C:\xampp\htdocs\Descendiente Capicua\obj\Debug\net7.0\Descendiente Capicua.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Descendiente Capicua\obj\Debug\net7.0\Descendiente Capicua.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Descendiente Capicua\obj\Debug\net7.0\Descendiente Capicua.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Descendiente Capicua\obj\Debug\net7.0\Descendiente Capicua.AssemblyInfo.cs
+C:\xampp\htdocs\Descendiente Capicua\obj\Debug\net7.0\Descendiente Capicua.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Descendiente Capicua\obj\Debug\net7.0\Descendiente Capicua.dll
+C:\xampp\htdocs\Descendiente Capicua\obj\Debug\net7.0\refint\Descendiente Capicua.dll
+C:\xampp\htdocs\Descendiente Capicua\obj\Debug\net7.0\Descendiente Capicua.pdb
+c:\xampp\htdocs\Descendiente Capicua\obj\Debug\net7.0\Descendiente Capicua.genruntimeconfig.cache
+c:\xampp\htdocs\Descendiente Capicua\obj\Debug\net7.0\ref\Descendiente Capicua.dll
